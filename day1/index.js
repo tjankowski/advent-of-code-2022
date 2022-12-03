@@ -1,4 +1,3 @@
-const { constants } = require("buffer");
 const fs = require("fs");
 
 const contents = fs.readFileSync("input.txt", "utf-8");
